@@ -3,10 +3,6 @@ body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-h1 {
-	background-image: url(../img/sobre-background.jpg);
-}
-
 h2 {
 	border-bottom: 2px solid #333333;
 }
@@ -61,16 +57,5 @@ figcaption {
 		float: right;
 		margin: 0 0 10px 10px;
 	}
-	.sacola {
-		background: url(../img/sacola.png) no-repeat top right;
-		font-size: 14px;
-		padding-right: 35px;
-		text-align: right;
-		width: 140px;
-	}
-	.menu-opcoes ul {
-		font-size: 15px;
-	}
-	.menu-opcoes a {
-		color: #003366;
-	}	
+	
+	
